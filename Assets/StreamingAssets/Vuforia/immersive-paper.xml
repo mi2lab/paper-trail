@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cell" size="0.168656 0.138526" />
+    <ImageTarget name="slides0" size="0.063500 0.063500" />
+    <ImageTarget name="tracing0" size="0.063500 0.063500" />
+    <ImageTarget name="notes0" size="0.063500 0.063500" />
+    <ImageTarget name="video0" size="0.063500 0.063500" />
+  </Tracking>
+</QCARConfig>

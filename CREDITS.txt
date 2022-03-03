@@ -1,0 +1,28 @@
+Icons:
+
+Capture: https://www.flaticon.com/free-icon/full-screen_1231725?term=corner&page=1&position=23
+Camera: https://www.flaticon.com/free-icon/camera_685655?term=camera&page=1&position=3#
+Butterfly: https://www.flaticon.com/free-icon/msn_732103?term=sketch&page=2&position=71
+Video: https://www.flaticon.com/free-icon/video-camera_1159798?term=video&page=1&position=85#
+
+Select: https://www.flaticon.com/free-icon/select_636047?term=select&page=1&position=1
+Accept: https://www.flaticon.com/free-icon/tick_447147?term=accept&page=1&position=1
+Duplicate: https://www.flaticon.com/free-icon/copy_476000?term=copy&page=2&position=85&k=1591505132756#
+Trash: https://www.flaticon.com/free-icon/delete_1345823?term=trash&page=1&position=3
+Cancel: https://www.flaticon.com/free-icon/cancel_271203?term=cancel&page=1&position=1
+Undo: https://www.flaticon.com/free-icon/undo_1828098?term=undo&page=1&position=20#
+
+Animate: https://www.flaticon.com/free-icon/magic-wand_2088992?term=magic%20wand&page=1&position=18
+
+Record: https://www.flaticon.com/free-icon/button_565665?term=record&page=1&position=16#
+Stop: https://www.flaticon.com/free-icon/stop_545666?term=stop&page=1&position=38
+Translate: https://www.flaticon.com/free-icon/move_482665
+Rotate:https://www.flaticon.com/free-icon/refresh_875100?term=rotate&page=1&position=8#
+Return: https://www.flaticon.com/free-icon/left-arrow_626025?term=return&page=1&position=69#
+
+Preview: https://www.flaticon.com/free-icon/view_709612?term=view&page=1&position=1
+
+Clipping Mask: https://www.flaticon.com/free-icon/file_482210?term=hide&page=1&position=36#
+Add: https://www.flaticon.com/free-icon/plus_1828925?term=add&page=1&position=13#
+
+Paper clip: https://www.flaticon.com/free-icon/paper-clip_901523?term=attach&page=1&position=15#
