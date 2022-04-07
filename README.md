@@ -13,7 +13,7 @@ Please refer to our [web page](https://www.mi2lab.com/research/papertrail/) for 
 
 **PaperTrail** this is the version of Paper Trail we used in our final user study with high school instructors. The Vuforia Image Targets hardcoded in the scene are the same markers used in the Torque Handout (see above).
 
-**PaperTrail-Startup:** this is a landing screen with buttons to navigate to the *TorqueHandout* and *Flapdoodle-ImmersivePaper* scenes.
+**PaperTrail-Startup:** this is a landing screen with buttons to navigate to the *TorqueHandout* and *PaperTrail* scenes.
 
 We recommend you build all 3 scenes in Unity, with PaperTrail-Startup as the first scene.
 
