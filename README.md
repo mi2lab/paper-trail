@@ -4,7 +4,7 @@ Paper Trail is a marker-based AR authoring tool for enhancing paper-based instru
 
 *Paper Trail: An Immersive Authoring System for Augmented Reality Instructional Experiences.* Shwetha Rajaram & Michael Nebeling. CHI 2022.
 
-Please refer to our web page for more details! [https://www.mi2lab.com/research/papertrail/](https://www.mi2lab.com/research/papertrail/)
+Please refer to our [web page](https://www.mi2lab.com/research/papertrail/) for more details and contact [shwethar@umich.edu](mailto:shwethar@umich.edu) with any questions!
 
 
 <h2>Unity Scenes</h2>
