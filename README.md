@@ -6,7 +6,6 @@ Paper Trail is a marker-based AR authoring tool for enhancing paper-based instru
 
 Please refer to our [web page](https://www.mi2lab.com/research/papertrail/) for more details and contact [shwethar@umich.edu](mailto:shwethar@umich.edu) with any questions!
 
-
 <h2>Unity Scenes</h2>
 
 **TorqueHandout:** this sample scene is a representative example of all of Paper Trail's AR features. We used the Torque Handout as an example in our user studies with PhD student instructors, XR design experts, and high school instructors. You can download the torque handout [here](https://docs.google.com/document/d/1C4VrJB96g7f7sYV6IEmOKhddrwqSrj5oew87MeDrkCk/edit?usp=sharing)!
@@ -27,3 +26,5 @@ We recommend you build all 3 scenes in Unity, with *PaperTrail-Startup* as the f
 **[Mixed Reality Toolkit (MRTK)](https://github.com/microsoft/MixedRealityToolkit-Unity/releases)** 2.3.0
 
 **[Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111#description)** (imported March 2020)
+
+Please see CREDITS.txt for a list of other open-source assets we used in the project.
