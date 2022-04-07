@@ -1,6 +1,6 @@
 # Paper Trail (HoloLens 2 implementation)
 
-Paper Trail is a marker-based AR authoring tool for enhancing paper-based instructional materials with varrious forms of digital media, animations for dynamic illustrations, and clipping masks to guide students' learning. We created Paper Trail as a part of our CHI 2022 publication:
+Paper Trail is a marker-based AR authoring tool for enhancing paper-based instructional materials with various forms of digital media, animations for dynamic illustrations, and clipping masks to guide students' learning. We created Paper Trail as a part of our CHI 2022 publication:
 
 *Paper Trail: An Immersive Authoring System for Augmented Reality Instructional Experiences.* Shwetha Rajaram & Michael Nebeling. CHI 2022.
 
@@ -25,3 +25,5 @@ We recommend you build all 3 scenes in Unity, with *PaperTrail-Startup* as the f
 **[Vuforia](https://developer.vuforia.com/downloads/SDK)** 8.5.9
 
 **[Mixed Reality Toolkit (MRTK)](https://github.com/microsoft/MixedRealityToolkit-Unity/releases)** 2.3.0
+
+Please see CREDITS.txt for a list of other open-source assets we used in the project.
