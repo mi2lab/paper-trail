@@ -15,7 +15,7 @@ Please refer to our [web page](https://www.mi2lab.com/research/papertrail/) for 
 
 **PaperTrail-Startup:** this is a landing screen with buttons to navigate to the *TorqueHandout* and *PaperTrail* scenes.
 
-We recommend you build all 3 scenes in Unity, with PaperTrail-Startup as the first scene.
+We recommend you build all 3 scenes in Unity, with *PaperTrail-Startup* as the first scene.
 
 
 <h2>Toolkit versions</h2>
