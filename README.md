@@ -25,3 +25,5 @@ We recommend you build all 3 scenes in Unity, with *PaperTrail-Startup* as the f
 **[Vuforia](https://developer.vuforia.com/downloads/SDK)** 8.5.9
 
 **[Mixed Reality Toolkit (MRTK)](https://github.com/microsoft/MixedRealityToolkit-Unity/releases)** 2.3.0
+
+Please see CREDITS.txt for a list of other open-source assets we used in the project.
